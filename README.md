@@ -29,8 +29,14 @@ Ensure you have Python installed on your system. Python 3.6 or higher is recomme
 - This script uses small prime numbers (p = 181 and q = 281) , which makes it insecure for real-world applications.
 - Ensure that the plaintext characters are within the limit set by the product of p and q to prevent data loss during encryption and decryption.
 
-# Contributions
-Contributions are welcome! If you have suggestions for improvements or bug fixes, please fork the repository, make your changes, and submit a pull request.
+## Contributing
+Contributions are welcome!
 
-License
-This project is open-source and available under the MIT License.
+You can help by:
+
+- Reporting issues
+- Suggesting improvements
+- Adding new features through pull requests
+
+## License
+This project is licensed under the MIT License.
