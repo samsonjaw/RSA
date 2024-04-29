@@ -56,10 +56,10 @@ def decode_chr(nums):
     return "".join(chr_list)
 
 # n > plaintext, 2q > p > q
-#plaintext(ascii) should < n, or plaintext will loss when decrypt
+#The size of plaintext(ascii) should < n, or plaintext will loss when decrypt
 def main():
     p, q = 181, 281
-    print('This program is just for studying. p and q is small, so it is not safe.')
+    # This p and q are for testing. If you want to ensure information security, please increase the value of p and q. 
     while True:
         print('=================choose the function=================')
         print('                 k.generate key')
