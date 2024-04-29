@@ -107,7 +107,7 @@ def main():
 
 
             while True:
-                u_input = input('please input private key, and split e n by a space:')
+                u_input = input('please input private key, and split d n by a space:')
                 try:
                     d, n = map(int, u_input.split())
                     private_key = (d, n)
