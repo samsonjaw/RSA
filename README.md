@@ -1,5 +1,6 @@
 # RSA
-This Python script provides a simple implementation of the RSA encryption algorithm. It features functionality for generating RSA keys, encrypting plaintext, and decrypting ciphertext using the RSA method.
+This Python script provides a simple implementation of the RSA encryption algorithm.  
+It features functionality for generating RSA keys, encrypting plaintext, and decrypting ciphertext using the RSA method.  
 
 ## Features
 - **Key Generation**: Generate RSA public and private keys based on two prime numbers.
